@@ -1,0 +1,5 @@
+CLSID
+IID
+GUID
+COM
+откуда берёшь GUID
